@@ -1,6 +1,5 @@
 List of useful api's which I found.
 
-
 ALL API'S FOR OSINT
 
 Phone Number Lookup and Verification
@@ -123,3 +122,4 @@ Aviation Stack https://aviationstack.com get information about flights, aircraft
 OpenSky Network https://opensky-network.org/apidoc/index.htmlFree real-time ADS-B aviation data FREE
 AviationAPI https://docs.aviationapi.com/ FAA Aeronautical Charts and Publications, Airport Information, and Airport Weather FREE
 
+Hope its useful!
